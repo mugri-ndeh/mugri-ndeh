@@ -10,6 +10,6 @@ Here are some ideas to get you started:-->
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with backend development
 - 💬 Ask me about ...-->
-- 📫 How to reach me: frunwindeh@yahoo.com https://twitter.com/mugrindeh
+- 📫 How to reach me: frunwindeh@gmail.com https://twitter.com/mugrindeh
 <!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: In love with music movies and gaming
